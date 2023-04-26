@@ -7,7 +7,6 @@ channels:
   - anaconda
 dependencies:
   - python=3.9.*
-  - mamba=1.2.*
   - pandas=1.5.3
   - pandas-stubs=1.5.3
   - drmaa==0.7.9
